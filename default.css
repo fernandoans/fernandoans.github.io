@@ -76,6 +76,7 @@ img.right
 {
 position: relative;
 float: right;
+width: 100px;
 margin: 0em 0em 1.8em 1.8em;
 }
 
